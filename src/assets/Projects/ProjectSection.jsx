@@ -2,10 +2,20 @@ import React from 'react';
 import './ProjectSection.css';
 
 const projects = [
+    {
+        title: "Drishti Techfest",
+        description: "A responsive and dynamic website designed for Drishti, the annual techfest of College of Engineering Trivandrum.",
+        link: "https://drishti.cet.ac.in/",
+      },
   {
     title: "Netflix Clone",
     description: "A responsive movie streaming web app inspired by Netflix UI. Built using React, TMDB API, and Firebase.",
     link: "https://aswinkrishnan2125.github.io/Netflix_clone/",
+  },
+  {
+    title: "Private Hostels",
+    description: "A full-stack web application built to streamline the process of discovering and comparing private hostels around CET.",
+    link: "https://privatehostelcet.onrender.com/",
   },
   {
     title: "School Website",
