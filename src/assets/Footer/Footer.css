@@ -1,0 +1,43 @@
+/* src/components/Footer.css */
+
+.footer {
+    /* background: linear-gradient(to bottom, #1a1a1a, #000); */
+    color: #ffffff;
+    padding: 40px 20px;
+    text-align: center;
+    border-top: 4px solid transparent;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .footer-title {
+    font-size: 1.8rem;
+    font-weight: 700;
+    background: linear-gradient(to right, #07030a, #0b0a0c);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 20px;
+  }
+  
+  .footer-icons {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-bottom: 16px;
+  }
+  
+  .footer-icons a {
+    color: #ccc;
+    font-size: 28px;
+    transition: transform 0.3s ease, color 0.3s ease;
+  }
+  
+  .footer-icons a:hover {
+    transform: scale(1.2);
+    color: #ff5e94;
+  }
+  
+  .footer-note {
+    font-size: 0.9rem;
+    color: #888;
+  }
+  
