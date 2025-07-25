@@ -11,7 +11,7 @@ const HeroSection = () => {
         </div>
         <div className="text">
           <h1>Hi, I'm <span>Aswin Krishnan R</span></h1>
-          <p>Front-End Developer </p>
+          <p>Web Developer </p>
           
         </div>
       </div>

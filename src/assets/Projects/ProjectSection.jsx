@@ -8,6 +8,11 @@ const projects = [
         link: "https://drishti.cet.ac.in/",
       },
   {
+    title: "AI Quiz",
+    description: "An AI-powered quiz generator that creates dynamic, topic-based quizzes in real time.",
+    link: "https://quiz-frontend-w3ng.onrender.com/login",
+  },
+  {
     title: "Netflix Clone",
     description: "A responsive movie streaming web app inspired by Netflix UI. Built using React, TMDB API, and Firebase.",
     link: "https://aswinkrishnan2125.github.io/Netflix_clone/",
